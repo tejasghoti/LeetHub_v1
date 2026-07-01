@@ -1,17 +1,18 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        if (n == 1) return 1;
-        if(n==2) return 2;
-        if(n==3) return 3;
-
-        int first = 1, second = 2;
-        for (int i = 3; i <= n; ++i) {
-            int third = first + second;
-            first = second;
-            second = third;
+        if(n==0 || n==1) {
+            return 1;
         }
-        return second;
+        int prev = 1,curr = 1;
+        for(int i=2; i<=n; i++){
+            int temp = curr;
+            curr = prev + curr;
+            prev = temp;
+        }
+        return curr;
     }
+
 };
+
 
