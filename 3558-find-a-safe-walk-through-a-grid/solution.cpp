@@ -1,31 +1,44 @@
 class Solution {
 public:
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
-    int m = grid.size(), n = grid[0].size();
-    vector<vector<int>> dirs = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
-    vector<vector<int>> visited(m, vector<int>(n, -1));
-    queue<pair<int, int>> q;
-    q.push({0, 0});
-    visited[0][0] = health - grid[0][0];
+        int m = grid.size(), n = grid[0].size();
 
-    while (!q.empty()) {
-        auto [x, y] = q.front();
-        q.pop();
+        vector<vector<int>> dist(m, vector<int>(n, INT_MAX));
+        deque<pair<int,int>> dq;
 
-        if (x == m - 1 && y == n - 1) return visited[x][y] > 0;
+        dist[0][0] = grid[0][0];
+        dq.push_front({0,0});
 
-        for (auto& dir : dirs) {
-            int nx = x + dir[0], ny = y + dir[1];
-            if (nx >= 0 && ny >= 0 && nx < m && ny < n) {
-                int new_health = visited[x][y] - grid[nx][ny];
-                if (new_health > visited[nx][ny]) {
-                    visited[nx][ny] = new_health;
-                    if (new_health > 0) q.push({nx, ny});
+        int dr[] = {-1,1,0,0};
+        int dc[] = {0,0,-1,1};
+
+        while(!dq.empty()) {
+
+            auto [r,c] = dq.front();
+            dq.pop_front();
+
+            for(int k=0;k<4;k++) {
+
+                int nr = r + dr[k];
+                int nc = c + dc[k];
+
+                if(nr<0 || nr>=m || nc<0 || nc>=n)
+                    continue;
+
+                int w = grid[nr][nc];
+
+                if(dist[r][c] + w < dist[nr][nc]) {
+
+                    dist[nr][nc] = dist[r][c] + w;
+
+                    if(w == 0)
+                        dq.push_front({nr,nc});
+                    else
+                        dq.push_back({nr,nc});
                 }
             }
         }
-    }
 
-    return false;
-}
+        return dist[m-1][n-1] < health;
+    }
 };
