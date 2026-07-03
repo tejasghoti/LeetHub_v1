@@ -15,12 +15,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/tejasghoti/LeetHub_v1/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/tejasghoti/LeetHub_v1/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/tejasghoti/LeetHub_v1/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/tejasghoti/LeetHub_v1/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/tejasghoti/LeetHub_v1/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/tejasghoti/LeetHub_v1/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tejasghoti/LeetHub_v1/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
