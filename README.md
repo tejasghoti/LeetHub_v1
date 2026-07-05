@@ -30,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasghoti/LeetHub_v1/tree/master/0387-first-unique-character-in-a-string) |
+## Array
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/tejasghoti/LeetHub_v1/tree/master/1301-number-of-paths-with-max-score) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/tejasghoti/LeetHub_v1/tree/master/1301-number-of-paths-with-max-score) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/tejasghoti/LeetHub_v1/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
