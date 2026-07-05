@@ -1,18 +1,24 @@
 class Solution {
 public:
     int reverse(int x) {
-        int ans= 0;
+        int result = 0;
         
         while(x != 0) {
-            // Check overflow BEFORE building result
-            if(ans > INT_MAX / 10 || ans< INT_MIN / 10) {
+            int digit = x % 10;
+            x /= 10;
+            
+            // Combined overflow check
+            if(result > INT_MAX / 10 || result < INT_MIN / 10) {
                 return 0;
             }
             
-            ans = ans*10 + x%10; 
-            x /= 10;
+            // Check edge case for last digit
+            if(result == INT_MAX / 10 && digit > 7) return 0;
+            if(result == INT_MIN / 10 && digit < -8) return 0;
+            
+            result = result * 10 + digit;
         }
         
-        return ans;
+        return result;
     }
 };
