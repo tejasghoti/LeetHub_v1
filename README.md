@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/tejasghoti/LeetHub_v1/tree/master/1288-remove-covered-intervals) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/tejasghoti/LeetHub_v1/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
