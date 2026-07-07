@@ -51,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/tejasghoti/LeetHub_v1/tree/master/0185-department-top-three-salaries) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/tejasghoti/LeetHub_v1/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
