@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/tejasghoti/LeetHub_v1/tree/master/0185-department-top-three-salaries) |
 | [0595-big-countries](https://github.com/tejasghoti/LeetHub_v1/tree/master/0595-big-countries) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tejasghoti/LeetHub_v1/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/tejasghoti/LeetHub_v1/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/tejasghoti/LeetHub_v1/tree/master/1873-calculate-special-bonus) |
 ## Two Pointers
