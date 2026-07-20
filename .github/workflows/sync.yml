@@ -1,19 +1,28 @@
-name: Sync Leetcode gh-actions
+name: Sync LeetCode gh-actions
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    # Every Saturday at 8:00 UTC (1:30 PM IST)
+    - cron: "0 8 * * 6"
+
+permissions:
+  contents: write
 
 jobs:
   sync:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: joshcai/leetcode-sync@master
+      - name: Sync LeetCode submissions
+        uses: joshcai/leetcode-sync@v1.7
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ github.token }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
-          csrf-token: ${{ secrets.CSRF_TOKEN }}
+          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+
+          # Leave empty to sync to the repository root
+          destination-folder: ""
+
+          verbose: true
+          commit-header: "[LeetCode Sync]"
