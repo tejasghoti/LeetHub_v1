@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tejasghoti/LeetHub_v1/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/tejasghoti/LeetHub_v1/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/tejasghoti/LeetHub_v1/tree/master/1873-calculate-special-bonus) |
+| [3586-find-covid-recovery-patients](https://github.com/tejasghoti/LeetHub_v1/tree/master/3586-find-covid-recovery-patients) |
 ## Two Pointers
 |  |
 | ------- |
