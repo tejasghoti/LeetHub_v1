@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/tejasghoti/LeetHub_v1/tree/master/0367-valid-perfect-square) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/tejasghoti/LeetHub_v1/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tejasghoti/LeetHub_v1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tejasghoti/LeetHub_v1/tree/master/0022-generate-parentheses) |
 | [0383-ransom-note](https://github.com/tejasghoti/LeetHub_v1/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasghoti/LeetHub_v1/tree/master/0387-first-unique-character-in-a-string) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/tejasghoti/LeetHub_v1/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Counting
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/tejasghoti/LeetHub_v1/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/tejasghoti/LeetHub_v1/tree/master/1331-rank-transform-of-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tejasghoti/LeetHub_v1/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/tejasghoti/LeetHub_v1/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tejasghoti/LeetHub_v1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tejasghoti/LeetHub_v1/tree/master/0022-generate-parentheses) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/tejasghoti/LeetHub_v1/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
