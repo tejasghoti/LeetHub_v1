@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/tejasghoti/LeetHub_v1/tree/master/0367-valid-perfect-square) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/tejasghoti/LeetHub_v1/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/tejasghoti/LeetHub_v1/tree/master/1331-rank-transform-of-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tejasghoti/LeetHub_v1/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tejasghoti/LeetHub_v1/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/tejasghoti/LeetHub_v1/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tejasghoti/LeetHub_v1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/tejasghoti/LeetHub_v1/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tejasghoti/LeetHub_v1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
