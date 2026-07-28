@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/tejasghoti/LeetHub_v1/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasghoti/LeetHub_v1/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/tejasghoti/LeetHub_v1/tree/master/1331-rank-transform-of-an-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/tejasghoti/LeetHub_v1/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tejasghoti/LeetHub_v1/tree/master/0022-generate-parentheses) |
 | [0383-ransom-note](https://github.com/tejasghoti/LeetHub_v1/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasghoti/LeetHub_v1/tree/master/0387-first-unique-character-in-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/tejasghoti/LeetHub_v1/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tejasghoti/LeetHub_v1/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/tejasghoti/LeetHub_v1/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Counting
