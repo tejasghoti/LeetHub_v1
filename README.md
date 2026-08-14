@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/tejasghoti/LeetHub_v1/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasghoti/LeetHub_v1/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/tejasghoti/LeetHub_v1/tree/master/1331-rank-transform-of-an-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/tejasghoti/LeetHub_v1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tejasghoti/LeetHub_v1/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/tejasghoti/LeetHub_v1/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasghoti/LeetHub_v1/tree/master/0387-first-unique-character-in-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tejasghoti/LeetHub_v1/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/tejasghoti/LeetHub_v1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tejasghoti/LeetHub_v1/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tejasghoti/LeetHub_v1/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/tejasghoti/LeetHub_v1/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tejasghoti/LeetHub_v1/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/tejasghoti/LeetHub_v1/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/tejasghoti/LeetHub_v1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
