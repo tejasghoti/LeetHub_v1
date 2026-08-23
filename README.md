@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0367-valid-perfect-square](https://github.com/tejasghoti/LeetHub_v1/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tejasghoti/LeetHub_v1/tree/master/0628-maximum-product-of-three-numbers) |
+| [1927-sum-game](https://github.com/tejasghoti/LeetHub_v1/tree/master/1927-sum-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tejasghoti/LeetHub_v1/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tejasghoti/LeetHub_v1/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tejasghoti/LeetHub_v1/tree/master/3536-maximum-product-of-two-digits) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tejasghoti/LeetHub_v1/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/tejasghoti/LeetHub_v1/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasghoti/LeetHub_v1/tree/master/0387-first-unique-character-in-a-string) |
+| [1927-sum-game](https://github.com/tejasghoti/LeetHub_v1/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tejasghoti/LeetHub_v1/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tejasghoti/LeetHub_v1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tejasghoti/LeetHub_v1/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/tejasghoti/LeetHub_v1/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tejasghoti/LeetHub_v1/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tejasghoti/LeetHub_v1/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tejasghoti/LeetHub_v1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tejasghoti/LeetHub_v1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/tejasghoti/LeetHub_v1/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
