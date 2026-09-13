@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/tejasghoti/LeetHub_v1/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/tejasghoti/LeetHub_v1/tree/master/0835-image-overlap) |
 | [1288-remove-covered-intervals](https://github.com/tejasghoti/LeetHub_v1/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/tejasghoti/LeetHub_v1/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/tejasghoti/LeetHub_v1/tree/master/1331-rank-transform-of-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/tejasghoti/LeetHub_v1/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/tejasghoti/LeetHub_v1/tree/master/1301-number-of-paths-with-max-score) |
 ## Sorting
 |  |
